@@ -143,4 +143,5 @@ public class SortTest {
 		List<Integer> ls = Arrays.asList(aa);
 		System.out.println(insertSort(ls));
 	}
+	
 }
